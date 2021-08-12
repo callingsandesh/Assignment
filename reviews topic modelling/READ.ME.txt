@@ -1,0 +1,2 @@
+Inside dependencies their are all the necessary libraries to install.Aditionally their are many
+file of nltk which needs to be downloaded, which can be downloaded using nltk after the warning signs.
